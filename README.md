@@ -21,7 +21,7 @@ When I’m not auditing controls, you’ll find me on the trails training for th
 ## 🛠 Technical Expertise
 
 ### Security & Compliance
-`NIST 800-53 Rev5` `FedRAMP` `RMF` `eMASS` `CMMC` `STIG/SRG`
+`NIST 800-53 Rev5` `FedRAMP` `SOC 2` `TPRM` `RMF` `eMASS` `CMMC` `STIG/SRG`
 
 ### Cloud & Infrastructure
 `AWS GovCloud` `Security Hub` `CloudTrail` `GuardDuty` `Terraform`
