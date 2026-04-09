@@ -14,7 +14,7 @@ My approach is rooted in Compliance-as-Code. I don't just manage audits; I engin
 
 When I’m not auditing controls or mapping frameworks, you’ll find me on the trails training for my next Ragnar or sharing beginner running tips on my YouTube channel. I believe that both GRC and distance running require the same thing: discipline, consistency, and a long-term view of success.
 
-**Recent Achievement**: Achieved FedRAMP Moderate ATO in less than 60 days for a growing GovCon AI SaaS product, Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
+**Recent Achievements**: Achieved FedRAMP Moderate ATO in less than 60 days for a growing GovCon AI SaaS product, Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
 
 **Passion**: Automating GRC workflows, simplifying compliance processes, and sharing knowledge with the cybersecurity community.
 
