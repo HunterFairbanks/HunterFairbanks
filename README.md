@@ -1,17 +1,20 @@
 # Hunter Fairbanks
-### Information System Security Officer | GRC Specialist | TS Clearance
+### GRC Specialist | Security and Compliance Expert | Top Secret Clearance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/h-fairbanks)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hunterdfairbanks@gmail.com)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)](https://www.credly.com/badges/f9bedaea-612c-4fe5-8396-3cf43462d067/public_url)
 [![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazon-aws)](https://drive.google.com/file/d/1_AcLK3rP5jtoRro_CKkP9WWvAZjUwMEp/view?usp=sharing)
 
-## 👋 About Me
+## About Me
 
+I am a Senior Compliance Analyst and Security Professional dedicated to transforming GRC from a "checkbox" exercise into a strategic advantage. With a foundation as an Information System Security Officer (ISSO) and deep experience in GovCloud environments, I specialize in building scalable compliance programs for high-growth AI and tech organizations.
 
-Cybersecurity professional with 5+ years of experience specializing in Risk Management Framework (RMF) authorization, eMASS administration, and DoD cloud security. Currently serving as Senior ISSO with active **Top Secret clearance**.
+My approach is rooted in Compliance-as-Code. I don't just manage audits; I engineer systems that automate evidence collection and mitigate risk in real-time. Whether it's navigating the complexities of procurement sciences or hardening cloud infrastructure, my goal is to ensure security becomes an accelerator for the business, not a bottleneck.
 
-**Recent Achievement**: Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
+When I’m not auditing controls or mapping frameworks, you’ll find me on the trails training for my next Ragnar or sharing beginner running tips on my YouTube channel. I believe that both GRC and distance running require the same thing: discipline, consistency, and a long-term view of success.
+
+**Recent Achievement**: Achieved FedRAMP Moderate ATO in less than 60 days for a growing GovCon AI SaaS product, Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
 
 **Passion**: Automating GRC workflows, simplifying compliance processes, and sharing knowledge with the cybersecurity community.
 
