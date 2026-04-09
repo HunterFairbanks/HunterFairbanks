@@ -36,7 +36,7 @@ When I’m not auditing controls, you’ll find me on the trails training for th
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[RMF-Automation-Toolkit](https://github.com/hunterfairbanks/RMF-Automation-Toolkit)** | Streamlining eMASS workflows, POAM tracking, and SSP generation. | Python, APIs |
-| **[Documentation Repository](https://github.com/hunterdfairbanks/generateddocumentation)** | Public facing security documentation that I've published |
+| **[Documentation Repository](https://github.com/hunterdfairbanks/generatedDocumentation)** | Public facing security documentation that I've published |
 | **[GRC-Compliance-Dashboard](https://github.com/hunterdfairbanks/GRC-Compliance-Dashboard)** | Real-time monitoring for security posture and authorization status. | Flask, Chart.js |
 
 ---
