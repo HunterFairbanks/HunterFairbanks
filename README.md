@@ -1,135 +1,86 @@
 # Hunter Fairbanks
-### GRC Specialist | Security and Compliance Expert | Top Secret Clearance
+### Senior Compliance Analyst | GRC Specialist | Top Secret Clearance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/h-fairbanks)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hunterdfairbanks@gmail.com)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)](https://www.credly.com/badges/f9bedaea-612c-4fe5-8396-3cf43462d067/public_url)
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazon-aws)](https://drive.google.com/file/d/1_AcLK3rP5jtoRro_CKkP9WWvAZjUwMEp/view?usp=sharing)
+<p align="left">
+<a href="https://linkedin.com/in/h-fairbanks"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:hunterdfairbanks@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
+<a href="https://www.credly.com/badges/f9bedaea-612c-4fe5-8396-3cf43462d067/public_url"><img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia" alt="Security+"></a>
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws" alt="AWS Certified">
+</p>
 
-## About Me
+## 🚀 About Me
 
-I am a Senior Compliance Analyst and Security Professional dedicated to transforming GRC from a "checkbox" exercise into a strategic advantage. With a foundation as an Information System Security Officer (ISSO) and deep experience in GovCloud environments, I specialize in building scalable compliance programs for high-growth AI and tech organizations.
+I am a **Senior Compliance Analyst** at **Procurement Sciences AI**, where I focus on transforming GRC from a "checkbox" exercise into a strategic accelerator for high-growth AI organizations. My background as an Information System Security Officer (ISSO) in GovCloud environments allows me to bridge the gap between rigorous federal requirements and modern cloud agility.
 
-My approach is rooted in Compliance-as-Code. I don't just manage audits; I engineer systems that automate evidence collection and mitigate risk in real-time. Whether it's navigating the complexities of procurement sciences or hardening cloud infrastructure, my goal is to ensure security becomes an accelerator for the business, not a bottleneck.
+My philosophy is **Compliance-as-Code**. I specialize in engineering automated systems that collect evidence and mitigate risk in real-time, ensuring security keeps pace with innovation.
 
-When I’m not auditing controls or mapping frameworks, you’ll find me on the trails training for my next Ragnar or sharing beginner running tips on my YouTube channel. I believe that both GRC and distance running require the same thing: discipline, consistency, and a long-term view of success.
-
-**Recent Achievements**: Achieved FedRAMP Moderate ATO in less than 60 days for a growing GovCon AI SaaS product, Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
-
-**Passion**: Automating GRC workflows, simplifying compliance processes, and sharing knowledge with the cybersecurity community.
-
-## Technical Expertise
-
-### Security & Compliance
-![NIST 800-53](https://img.shields.io/badge/NIST-800--53_Rev5-blue?style=flat)
-![FedRAMP](https://img.shields.io/badge/FedRAMP-Authorized-green?style=flat)
-![RMF](https://img.shields.io/badge/RMF-ATO_Lifecycle-orange?style=flat)
-![eMASS](https://img.shields.io/badge/eMASS-Administrator-red?style=flat)
-![CMMC](https://img.shields.io/badge/CMMC-Framework-purple?style=flat)
-
-### Cloud & Infrastructure
-![AWS GovCloud](https://img.shields.io/badge/AWS-GovCloud-orange?style=flat&logo=amazon-aws)
-![Security Hub](https://img.shields.io/badge/AWS-Security_Hub-orange?style=flat)
-![CloudTrail](https://img.shields.io/badge/AWS-CloudTrail-orange?style=flat)
-![GuardDuty](https://img.shields.io/badge/AWS-GuardDuty-orange?style=flat)
-
-### Security Operations
-![Elastic SIEM](https://img.shields.io/badge/Elastic-SIEM-yellow?style=flat&logo=elastic)
-![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat&logo=python)
-![STIG](https://img.shields.io/badge/DISA-STIG-red?style=flat)
-
-## Featured Projects
-
-### [RMF-Automation-Toolkit](https://github.com/hunterfairbanks/RMF-Automation-Toolkit)
-Python-based automation tools for streamlining RMF/eMASS workflows. Includes POAM tracking, SSP generation, and control evidence collection.
-- **Tech**: Python, APIs, Automation
-- **Use Case**: Reduce manual effort in authorization lifecycle
-
-### [AWS-GovCloud-Security-Baseline](https://github.com/hunterdfairbanks/AWS-GovCloud-Security-Baseline)
-Infrastructure-as-code security baselines for AWS GovCloud environments aligned with NIST 800-53 and FedRAMP requirements.
-- **Tech**: Terraform, CloudFormation, AWS Config
-- **Use Case**: Rapid deployment of compliant cloud infrastructure
-
-### [NIST-800-53-Control-Templates](https://github.com/hunterdfairbanks/NIST-800-53-Control-Templates)
-Comprehensive implementation templates for NIST 800-53 Rev 5 security controls with AWS GovCloud-specific guidance.
-- **Tech**: Markdown, YAML, Documentation
-- **Use Case**: Accelerate SSP development and control implementation
-
-### [GRC-Compliance-Dashboard](https://github.com/hunterdfairbanks/GRC-Compliance-Dashboard)
-Web-based compliance monitoring dashboard for tracking security posture, POAMs, and authorization status.
-- **Tech**: Python, Flask, JavaScript, Chart.js
-- **Use Case**: Real-time visibility into compliance posture
-
-### [FedRAMP-ATO-Toolkit](https://github.com/hunterdfairbanks/FedRAMP-ATO-Toolkit)
-Comprehensive collection of templates and resources for FedRAMP/RMF authorization processes.
-- **Tech**: Templates, Process Documentation
-- **Use Case**: Guide teams through ATO process efficiently
-
-### [Third-Party-Risk-Assessment-Framework](https://github.com/hunterdfairbanks/Third-Party-Risk-Assessment-Framework)
-Vendor security assessment questionnaires and risk scoring tools aligned with NIST and ISO 27001.
-- **Tech**: Python, Risk Analytics
-- **Use Case**: Streamline vendor security evaluations
-
-## Certifications & Education
-
-**Active Certifications:**
-- CompTIA Security+ (CE)
-- AWS Certified Cloud Practitioner
-- CySA+ (In Progress)
-- CISSP (In Progress)
-
-**Education:**
-- B.S. Information Systems - Cybersecurity, Utah State University
-- 🇦🇹 German Language Proficiency (2-year immersion)
-
-## Professional Experience Highlights
-
-**Senior ISSO** @ Dark Wolf Solutions (2022-Present)
-- Sole ISSO for $50M+ Space Force cloud modernization program
-- Managed IL4/IL5/IL6-ready AWS GovCloud environments
-- Achieved ATO in <12 months with 98% POAM closure rate
-- Engineered 1,000+ NIST 800-53 Rev 5 security controls
-- Administered eMASS platform for continuous monitoring
-
-**Cybersecurity & GRC Intern** @ Honeywell (Summer 2022)
-- Managed third-party security risk assessments (20+ vendors/week)
-- Developed global compliance training program
-- Conducted security control gap analysis
-
-## Current Focus
-
-Building open-source GRC automation tools  
-Pursuing CySA+ certification  
-Open to collaborating on federal cybersecurity projects  
-Ask me about RMF, eMASS, AWS GovCloud security, or NIST 800-53  
-I'm also trainng for a marathon, love collecting watches, and spend too much time playing golf  
-
-## Let's Connect
-
-I'm always interested in discussing GRC, federal cybersecurity, or collaboration opportunities!
-
-- [LinkedIn](https://linkedin.com/in/h-fairbanks)
-- [Email](mailto:hunterdfairbanks@gmail.com)
-- Location: Lehi, Utah
-
-## Contributing
-
-I welcome contributions, feedback, and discussions on any of my repositories! Feel free to:
-- Open issues for bugs or feature requests
-- Submit pull requests with improvements
-- Star ⭐ repositories you find useful
-- Share with colleagues who might benefit
-
-## License
-
-Most of my projects are released under the MIT License. See individual repositories for specific licensing information.
+When I’m not auditing controls, you’ll find me on the trails training for the **Ragnar Trail Zion** event, filming for my beginner running YouTube channel, or tinkering with my **Seiko** and **Casio** watch collection.
 
 ---
+
+## 🛠 Technical Expertise
+
+### Security & Compliance
+`NIST 800-53 Rev5` `FedRAMP` `RMF` `eMASS` `CMMC` `STIG/SRG`
+
+### Cloud & Infrastructure
+`AWS GovCloud` `Security Hub` `CloudTrail` `GuardDuty` `Terraform`
+
+### Security Operations
+`Elastic SIEM` `Python Automation` `Vulnerability Management`
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[RMF-Automation-Toolkit](https://github.com/hunterfairbanks/RMF-Automation-Toolkit)** | Streamlining eMASS workflows, POAM tracking, and SSP generation. | Python, APIs |
+| **[Documentation Repository](https://github.com/hunterdfairbanks/generateddocumentation)** | Public facing security documentation that I've published |
+| **[GRC-Compliance-Dashboard](https://github.com/hunterdfairbanks/GRC-Compliance-Dashboard)** | Real-time monitoring for security posture and authorization status. | Flask, Chart.js |
+
+---
+
+## 💼 Professional Experience
+
+**Senior Compliance Analyst** | *Procurement Sciences AI* | *Dec 2025 – Present*
+* Building scalable compliance programs for AI-driven procurement platforms.
+* Automating internal audit controls and vendor risk management.
+
+**Senior ISSO** | *Dark Wolf Solutions* | *2022 – 2025*
+* Led security for a **$50M+ Space Force** cloud modernization program.
+* Achieved ATO in <12 months with a 98% POAM closure rate across IL4/IL5 environments.
+
+---
+
+## 🎓 Education & Certs
+
+* **B.S. Information Systems (Cybersecurity)** – Utah State University
+* **Active Certs:** CompTIA Security+, AWS Certified Cloud Practitioner
+* **In Progress:** CySA+, CISSP
+* **Languages:** German (2-year immersion)
+
+---
+
+## ⚡ Current Focus
+
+* 🤖 **AI Compliance:** Hardening SaaS infrastructure for federal AI workloads.
+* 🏃 **Endurance:** Training for **Ragnar Trail Zion** (May 2026).
+* ⌚ **Horology:** Restoring and collecting mechanical watches (Seiko/Casio).
+* 🎮 **Gaming:** Relaxing with Nintendo Switch and PC titles.
+
+---
+
+## 📫 Let's Connect
+
+* **Location:** Lehi, Utah 🏔️
+* **LinkedIn:** [h-fairbanks](https://linkedin.com/in/h-fairbanks)
+* **GitHub:** You're already here! Feel free to star any repos you find useful.
 
 <div align="center">
 
 **"Simplifying compliance through automation and knowledge sharing"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=hunterdfairbanks&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hunterdfairbanks&color=blue&style=flat-square)
 
 </div>
